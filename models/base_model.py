@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-"""
 A module that implements the BaseModel class
 """
 
